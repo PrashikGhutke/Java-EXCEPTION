@@ -1,0 +1,8 @@
+class A
+{
+	public static void main(String args[])
+	{
+		int i= (int)(char)(byte)-2;
+		System.out.println(i);
+	}
+}
